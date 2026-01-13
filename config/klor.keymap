@@ -264,11 +264,6 @@
             key-positions = <0 1>;
         };
 
-        caps {
-            bindings = <&kp CAPSLOCK>;
-            key-positions = <11 0>;
-        };
-
         del {
             bindings = <&kp DEL>;
             key-positions = <20 9>;
@@ -289,12 +284,6 @@
         GAME_MODE {
             bindings = <&to 6>;
             key-positions = <0 1 2 3>;
-            layers = <0 1 2 3 4 5 6>;
-        };
-
-        Tab {
-            bindings = <&kp TAB>;
-            key-positions = <11 12>;
             layers = <0 1 2 3 4 5 6>;
         };
     };
