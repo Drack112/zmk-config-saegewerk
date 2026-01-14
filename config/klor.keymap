@@ -326,7 +326,7 @@
             bindings = <
         &kp N1     &kp N2     &kp N3    &kp N4          &kp N5                           &kp N6     &kp N7    &kp N8     &kp N9                &kp N0
 &trans  &kp EXCL   &kp AT     &kp HASH  &kp DOLLAR      &kp PERCENT                      &kp CARET  &kp AMPS  &kp ASTRK  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &trans
-&trans  &kp EQUAL  &kp MINUS  &kp PLUS  &kp LEFT_BRACE  &kp RIGHT_BRACE  &trans  &trans  &kp LBKT   &kp RBKT  &kp SEMI   &kp COLON             &kp NUBS               &trans
+&trans  &kp EQUAL  &kp MINUS  &kp PLUS  &kp LEFT_BRACE  &kp RIGHT_BRACE  &trans  &trans  &kp LBKT   &kp RBKT  &kp SEMI   &kp COLON             &hm NUBS PERIOD        &trans
                               &trans    &trans          &trans           &trans  &trans  &trans     &trans    &trans
             >;
 
