@@ -301,7 +301,7 @@
         &kp Q  &kp W  &kp E         &kp R      &kp T                                         &kp Y      &kp U                      &kp I            &kp O                &kp P
 &trans  &kp A  &kp S  &kp D         &kp F      &kp G                                         &kp H      &kp J                      &kp K            &kp L                &hm APOS SEMI     &trans
 &trans  &kp Z  &kp X  &kp C         &kp V      &kp B           &kp C_PLAY_PAUSE  &kp C_MUTE  &kp B      &kp N                      &kp M            &hm BACKSLASH COMMA  &hm SLASH PERIOD  &trans
-                      &kp LEFT_GUI  &lt 3 TAB  &hm CAPS SPACE  &trans            &trans      &kp ENTER  &hm RIGHT_SHIFT BACKSPACE  &lt 2 RIGHT_ALT
+                      &kp LEFT_GUI  &lt 2 TAB  &hm CAPS SPACE  &trans            &trans      &kp ENTER  &hm RIGHT_SHIFT BACKSPACE  &lt 3 RIGHT_ALT
             >;
 
             sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN &inc_dec_kp C_NEXT C_PREV>;
@@ -314,7 +314,7 @@
         &kp Q           &kp W  &kp E      &kp R      &kp T                                             &kp Y      &kp U                     &kp I            &kp O                &kp P
 &trans  &kp A           &kp S  &kp D      &kp F      &kp G                                             &kp H      &kp J                     &kp K            &kp L                &hm APOS SEMI     &trans
 &trans  &hm LEFT_GUI Z  &kp X  &kp C      &kp V      &kp B               &kp C_PLAY_PAUSE  &kp C_MUTE  &kp B      &kp N                     &kp M            &hm BACKSLASH COMMA  &hm SLASH PERIOD  &trans
-                               &kp LCTRL  &lt 3 TAB  &hm CAPSLOCK SPACE  &trans            &trans      &kp ENTER  &hm LEFT_SHIFT BACKSPACE  &lt 2 RIGHT_ALT
+                               &kp LCTRL  &lt 2 TAB  &hm CAPSLOCK SPACE  &trans            &trans      &kp ENTER  &hm LEFT_SHIFT BACKSPACE  &lt 3 RIGHT_ALT
             >;
 
             sensor-bindings =
